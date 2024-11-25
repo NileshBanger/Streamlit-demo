@@ -1,7 +1,0 @@
-account = "sfedu02-hcb43277"
-user = "BOA"
-password = "Banger@2002"
-role = "TRAINING_ROLE"
-warehouse = "BOA_WH"
-database = "BOA_DB"
-schema = "PUBLIC"
